@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D1A,30:0B1F3A,70:0078D4,100:00E5FF&height=230&section=header&text=Bhakua%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Animated DevSecOps profile banner" width="100%" />
+<img src="./assets/banner.svg" alt="Bhakua Engineer - Principal Cloud Architect & Agentic AI Systems" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=Senior+DevSecOps+Engineer+%7C+Cloud+Architect;Microsoft+Azure+%7C+Terraform+IaC+%7C+Zero-Trust+CI%2FCD;Agentic+AI+Engineering+%7C+Model+Context+Protocol+(MCP)+%26+RAG;Migrating+100%2B+Workloads+with+Zero-Downtime;Building+Self-Healing+%26+FinOps-Optimized+Cloud+Platforms" alt="Animated DevSecOps headline" />
@@ -185,6 +185,6 @@ I welcome conversations regarding Cloud Architecture, Enterprise DevSecOps trans
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:0078D4,100:050D1A&height=120&section=footer" alt="Blue DevSecOps profile footer" width="100%" />
+<img src="./assets/footer.svg" alt="Bhakua Engineer Control Plane" width="100%" />
 
 </div>
